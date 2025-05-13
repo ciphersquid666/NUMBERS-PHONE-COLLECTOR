@@ -1,11 +1,6 @@
 # 📞 NUMBERS-PHONE-COLLECTOR
 
-<div align="center">
-  
-  ![NumCollect Tool](https://img.shields.io/badge/NumCollect-Python-blue?style=for-the-badge&logo=python)
-  ![License](https://img.shields.io/github/license/ciphersquid666/NUMBERS-PHONE-COLLECTOR?style=for-the-badge)
-  
-</div>
+![Funny Squid](https://i.pinimg.com/originals/10/c2/ef/10c2ef6d6720caa853aa9fdb6548768a.gif)
 
 ## ✨ Description
 
