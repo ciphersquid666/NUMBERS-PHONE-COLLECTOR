@@ -37,16 +37,10 @@
 
 1. **Run the script:**
    ```bash
-   python numcollect.py
+   python NumScan.py
    ```
 2. **Enter the domain** (e.g., `example.com`) when prompted.  
    Type `exit` to close the program.
-
----
-
-## 🖼️ Screenshot
-
-![Sample Output](https://link-to-your-direct-image.png) 
 
 ---
 
@@ -91,3 +85,4 @@ The author is not responsible for any misuse.**
 ---
 
 ## ⭐️ Star this project if you find it useful!
+```
