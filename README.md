@@ -46,7 +46,7 @@
 
 ## 🖼️ Screenshot
 
-![Sample Output](https://user-images.githubusercontent.com/your-username/your-screenshot.png) <!-- Replace with a real screenshot if desired -->
+![Sample Output](https://ibb.co/Wp25Mpwp) <!-- 
 
 ---
 
