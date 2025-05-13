@@ -46,7 +46,7 @@
 
 ## 🖼️ Screenshot
 
-![Sample Output](https://ibb.co/Wp25Mpwp) <!-- 
+![Sample Output](https://link-to-your-direct-image.png) 
 
 ---
 
